@@ -20,7 +20,6 @@
   height: 100vh;
   display: flex;
   flex-direction: column;
-  z-index: -1;
 }
 
 .nav {
@@ -57,7 +56,6 @@
   font-size: 60px;
   line-height: 72px;
   letter-spacing: -0.6px;
-  z-index: 1;
 }
 
 .header__span-accent {
