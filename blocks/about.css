@@ -45,6 +45,7 @@
 
 .about__paragraph {
   margin: 0 0 20px;
+  list-style-type: none;
 }
 
 .about__paragraph:first-of-type {

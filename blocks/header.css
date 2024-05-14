@@ -90,3 +90,7 @@
   font-weight: 500;
 }
 
+.nav__link:hover {
+  color: #2F80ED
+}
+
