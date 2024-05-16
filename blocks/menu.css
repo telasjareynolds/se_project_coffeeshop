@@ -19,7 +19,7 @@
   max-width: 780px;
   margin: 0 auto 100px;
   text-align: center;
-  font-family: "Noto Serif",'Times New Roman', Times, serif;
+  font-family: "Noto Serif",'Times New Roman', serif;
   font-size: 20px;
   line-height: 30px;
 }
@@ -31,39 +31,5 @@
   margin: 0 auto;
   gap: 100px;
 }
-
-.card {
-  width: 540px;
-}
-
-.card__title {
-  font-weight: bold;
-  font-size: 20px;
-  line-height: 30px;
-  margin: 0 0 32px;
-}
-
-.card__list {
-  margin: 0 0 16px;
-  padding-left: 0;
-  list-style-type: none;
-}
-
-.card__list-item {
-  font-family: "Noto Serif", 'Times New Roman', Times, serif;
-  margin-bottom: 16px;
-  display: flex;
-  justify-content: space-between;
-}
-
-.card__list-item:last-of-type {
-  margin-bottom: 0;
-}
-
-.card__list-divider {
-  border-bottom: 2px solid black;
-  flex-grow: 1;
-}
-
 
 
