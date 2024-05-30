@@ -64,7 +64,7 @@
   color: #838383;
 }
 
-.header__paragraph_address {
+.header__paragraph_type_address {
   z-index: 1;
   align-self: flex-end;
 }
